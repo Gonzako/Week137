@@ -4,15 +4,27 @@ using UnityEngine;
 
 public class FlipFlopMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public float massAsAnchor;
+    public float massAsFeet;
+
+    private Rigidbody2D rb;
+    private TargetJoint2D mouseJoint;
+
+    private void Start()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
+        mouseJoint = GetComponent<TargetJoint2D>();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void makeAnchor()
     {
-        
+        rb.mass = massAsAnchor;
+        mouseJoint.enabled = false;
+    }
+
+    public void makeFeet()
+    {
+        rb.mass = massAsFeet;
+        mouseJoint.enabled = true;
     }
 }
