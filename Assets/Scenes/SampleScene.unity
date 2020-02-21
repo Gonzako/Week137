@@ -451,7 +451,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 767277079}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 0
+  m_EnableCollision: 1
   m_ConnectedRigidBody: {fileID: 1165279332}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -650,7 +650,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1165279328}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 0
+  m_EnableCollision: 1
   m_ConnectedRigidBody: {fileID: 767277083}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
