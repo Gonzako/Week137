@@ -6,9 +6,9 @@ using UnityEngine;
 public class anchorSwitcher : MonoBehaviour
 {
     public static Action<FlipFlopMovement[], FlipFlopMovement> onStateSwitch;
-    public static Action<FlipFlopMovement[], lastButtonUsed> onWrongSwitch;
+    public static Action<FlipFlopMovement[], buttonToChange> onWrongSwitch;
 
-    private lastButtonUsed lastButton = lastButtonUsed.rightClick;
+    private buttonToChange changeButton = buttonToChange.rightClick;
     private FlipFlopMovement[] flipFlops;
     private Vector2 inputVector;
 
@@ -38,40 +38,40 @@ public class anchorSwitcher : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            if (lastButton == lastButtonUsed.leftClick)
+            if (changeButton == buttonToChange.leftClick)
             {
                 Debug.Log("badLeftClick");
-                onWrongSwitch?.Invoke(flipFlops, lastButton);
+                onWrongSwitch?.Invoke(flipFlops, changeButton);
             }
-            inputVector.y = 1;
+            inputVector.x = 1;
         }
         if (Input.GetButtonDown("Fire2"))
         {
-            if(lastButton == lastButtonUsed.rightClick)
+            if(changeButton == buttonToChange.rightClick)
             {
                 Debug.Log("badRightClick");
-                onWrongSwitch?.Invoke(flipFlops, lastButton);
+                onWrongSwitch?.Invoke(flipFlops, changeButton);
             }
-            inputVector.x = 1;
+            inputVector.y = 1;
         }
     }
 
     private void FixedUpdate()
     {
-        switch (lastButton)
+        switch (changeButton)
         {
-            case lastButtonUsed.rightClick:
+            case buttonToChange.rightClick:
                 if(inputVector.y == 1)
                 {
                     switchStates();
-                    lastButton = lastButtonUsed.rightClick;
+                    changeButton = buttonToChange.leftClick;
                 }
                 break;
-            case lastButtonUsed.leftClick:
+            case buttonToChange.leftClick:
                 if (inputVector.x == 1)
                 {
                     switchStates();
-                    lastButton = lastButtonUsed.leftClick;
+                    changeButton = buttonToChange.rightClick;
                 }
                 break;
         }
@@ -84,7 +84,7 @@ public class anchorSwitcher : MonoBehaviour
         inputVector = Vector2.zero;
     }
 
-    public enum lastButtonUsed
+    public enum buttonToChange
     {
         rightClick, leftClick
     }
