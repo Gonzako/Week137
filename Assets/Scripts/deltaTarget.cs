@@ -24,13 +24,14 @@ public class deltaTarget : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        mouseDelta.x += Input.GetAxis("MouseX");
-        mouseDelta.y += Input.GetAxis("MouseY");
+        mouseDelta.x += Input.GetAxis("Mouse X");
+        mouseDelta.y += Input.GetAxis("Mouse Y");
     }
 
     private void FixedUpdate()
     {
         mouseJoint.target += mouseDelta * sensibility;
+        mouseDelta = Vector2.zero;
     }
 
 
