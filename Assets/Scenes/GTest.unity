@@ -328,7 +328,7 @@ PrefabInstance:
     - target: {fileID: 3500896274795692062, guid: 2afc3c751297b544c86f1b1e57a6b919,
         type: 3}
       propertyPath: massAsAnchor
-      value: 48.8
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 3500896275412093238, guid: 2afc3c751297b544c86f1b1e57a6b919,
         type: 3}
@@ -393,7 +393,7 @@ PrefabInstance:
     - target: {fileID: 3500896276535375977, guid: 2afc3c751297b544c86f1b1e57a6b919,
         type: 3}
       propertyPath: massAsAnchor
-      value: 48.8
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 5948766844135131773, guid: 2afc3c751297b544c86f1b1e57a6b919,
         type: 3}
@@ -420,6 +420,49 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 587207090}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &692905238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 692905239}
+  - component: {fileID: 692905240}
+  m_Layer: 0
+  m_Name: CursorLocker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &692905239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 692905238}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.7032616, y: -1.211249, z: -14.798828}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &692905240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 692905238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa84e9c5fd9efa41893605331d50996, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1300964642
 GameObject:
   m_ObjectHideFlags: 0
