@@ -166,7 +166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LookaheadTime: 0
   m_LookaheadSmoothing: 10
-  m_LookaheadIgnoreY: 0
+  m_LookaheadIgnoreY: 1
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
@@ -184,7 +184,7 @@ MonoBehaviour:
   m_CenterOnActivate: 1
   m_GroupFramingMode: 2
   m_AdjustmentMode: 0
-  m_GroupFramingSize: 0.06
+  m_GroupFramingSize: 0.1
   m_MaxDollyIn: 5000
   m_MaxDollyOut: 5000
   m_MinimumDistance: 1
@@ -323,7 +323,7 @@ PrefabInstance:
     - target: {fileID: 459320789683679372, guid: 2afc3c751297b544c86f1b1e57a6b919,
         type: 3}
       propertyPath: sensibility
-      value: 0.3
+      value: 0.51
       objectReference: {fileID: 0}
     - target: {fileID: 3500896274795692062, guid: 2afc3c751297b544c86f1b1e57a6b919,
         type: 3}
@@ -398,7 +398,7 @@ PrefabInstance:
     - target: {fileID: 5948766844135131773, guid: 2afc3c751297b544c86f1b1e57a6b919,
         type: 3}
       propertyPath: sensibility
-      value: 0.3
+      value: 0.51
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
@@ -628,7 +628,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 8.059371
+  orthographic size: 5
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
