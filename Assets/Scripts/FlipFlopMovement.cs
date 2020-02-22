@@ -5,10 +5,16 @@ using UnityEngine;
 public class FlipFlopMovement : MonoBehaviour
 {
 
+    
+
     public feetState state;
 
     public float massAsAnchor;
     public float massAsFeet;
+
+    public List<Behaviour> behavioursAsAnchor = new List<Behaviour>();
+    public List<Behaviour> behavioursAsFeet = new List<Behaviour>();
+ 
 
     private Rigidbody2D rb;
     private TargetJoint2D mouseJoint;
@@ -27,6 +33,14 @@ public class FlipFlopMovement : MonoBehaviour
         rb.mass = massAsAnchor;
         anchorJoint.enabled = false;
         mouseJoint.enabled = false;
+        foreach(Behaviour n in behavioursAsAnchor)
+        {
+            n.enabled = true;
+        }
+        foreach(Behaviour n in behavioursAsFeet)
+        {
+            n.enabled = false;
+        }
     }
 
     public void makeFeet()
@@ -35,6 +49,14 @@ public class FlipFlopMovement : MonoBehaviour
         state = feetState.feet;
         rb.mass = massAsFeet;
         mouseJoint.enabled = true;
+        foreach (Behaviour n in behavioursAsAnchor)
+        {
+            n.enabled = false;
+        }
+        foreach (Behaviour n in behavioursAsFeet)
+        {
+            n.enabled = true;
+        }
     }
 }
 
