@@ -22,6 +22,7 @@ public class MouseTarget : MonoBehaviour
 
 	void FixedUpdate ()
 	{
+        
 		// Finish if no joint detected.
 		if (targetJoint == null)
 			return;
