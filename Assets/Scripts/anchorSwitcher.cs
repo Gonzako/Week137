@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class anchorSwitcher : MonoBehaviour
 {
-    public static Action<FlipFlopMovement[], FlipFlopMovement> onStateSwitch;
-    public static Action<FlipFlopMovement[], buttonToChange> onWrongSwitch;
+    public static event Action<FlipFlopMovement[], FlipFlopMovement> onStateSwitch;
+    public static event Action<FlipFlopMovement[], buttonToChange> onWrongSwitch;
 
     private buttonToChange changeButton = buttonToChange.rightClick;
     private FlipFlopMovement[] flipFlops;
