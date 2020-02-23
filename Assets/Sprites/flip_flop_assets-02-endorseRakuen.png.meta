@@ -10,7 +10,7 @@ TextureImporter:
     second: flip_flop_assets-02-endorseRakuen_1
   - first:
       213: 5151173286723556483
-    second: flip_flop_assets-02-endorseRakuen_2
+    second: EyeBrowSoft
   - first:
       213: 8961511820480959892
     second: flip_flop_assets-02-endorseRakuen_3
@@ -19,10 +19,13 @@ TextureImporter:
     second: eyebrowsSharp
   - first:
       213: 7430761468539517424
-    second: flip_flop_assets-02-endorseRakuen_5
+    second: smile
   - first:
       213: 6371843442731888658
     second: WhiteEyes
+  - first:
+      213: 1551049216118466883
+    second: flip_flop_assets-02-endorseRakuen_0
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -123,7 +126,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 647
+        y: 648
         width: 391
         height: 96
       alignment: 0
@@ -161,15 +164,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_2
+      name: EyeBrowSoft
       rect:
         serializedVersion: 2
         x: 170
-        y: 524
+        y: 528
         width: 97
         height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +189,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 308
-        y: 534
+        y: 533
         width: 111
         height: 31
       alignment: 0
@@ -206,8 +209,8 @@ TextureImporter:
       name: eyebrowsSharp
       rect:
         serializedVersion: 2
-        x: 433
-        y: 535
+        x: 434
+        y: 536
         width: 111
         height: 31
       alignment: 0
@@ -224,7 +227,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_5
+      name: smile
       rect:
         serializedVersion: 2
         x: 80
@@ -249,7 +252,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 369
-        y: 401
+        y: 402
         width: 143
         height: 90
       alignment: 0
@@ -261,6 +264,27 @@ TextureImporter:
       bones: []
       spriteID: ef9d349652ccd7d41be2f1013cb5bc6d
       internalID: 6371843442731888658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flip_flop_assets-02-endorseRakuen_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 143
+        width: 285
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57374d9f9ee4fb44eba4433d5218094b
+      internalID: 1551049216118466883
       vertices: []
       indices: 
       edges: []
