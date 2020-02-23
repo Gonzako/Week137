@@ -21,7 +21,7 @@ public class anchorSwitcher : MonoBehaviour
     public static event Action<FlipFlopMovement[], FlipFlopMovement> onStateSwitch;
     public static event Action<FlipFlopMovement[], buttonToChange> onWrongSwitch;
 
-    private buttonToChange changeButton = buttonToChange.leftClick;
+    private buttonToChange changeButton = buttonToChange.rightClick;
     private FlipFlopMovement[] flipFlops;
     private Vector2 inputVector;
 
