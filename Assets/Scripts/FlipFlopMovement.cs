@@ -18,11 +18,9 @@ public class FlipFlopMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private TargetJoint2D mouseJoint;
-    private SpringJoint2D anchorJoint;
 
     private void Start()
     {
-        anchorJoint = GetComponent<SpringJoint2D>();
         rb = GetComponent<Rigidbody2D>();
         mouseJoint = GetComponent<TargetJoint2D>();
     }
@@ -31,7 +29,6 @@ public class FlipFlopMovement : MonoBehaviour
     {
         state = feetState.anchor;
         rb.mass = massAsAnchor;
-        anchorJoint.enabled = false;
         mouseJoint.enabled = false;
         foreach(Behaviour n in behavioursAsAnchor)
         {
@@ -45,7 +42,6 @@ public class FlipFlopMovement : MonoBehaviour
 
     public void makeFeet()
     {
-        anchorJoint.enabled = true;
         state = feetState.feet;
         rb.mass = massAsFeet;
         mouseJoint.enabled = true;
