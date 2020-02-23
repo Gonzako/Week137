@@ -1,28 +1,31 @@
 fileFormatVersion: 2
-guid: 767ae07275a020142ad723b1dad1c667
+guid: e242b62e7e6caee439fa1d024a8fa5bb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1551049216118466883
-    second: Sandal
+      213: -3932816638193255715
+    second: Brown On (32x8)_0
   - first:
-      213: -5031767050192780626
-    second: flip_flop_assets-02-endorseRakuen_1
+      213: 113249620649802049
+    second: Brown On (32x8)_1
   - first:
-      213: 5151173286723556483
-    second: flip_flop_assets-02-endorseRakuen_2
+      213: -3965723481977160693
+    second: Brown On (32x8)_2
   - first:
-      213: 8961511820480959892
-    second: flip_flop_assets-02-endorseRakuen_3
+      213: -8422671310359681190
+    second: Brown On (32x8)_3
   - first:
-      213: 4588817124696567803
-    second: eyebrowsSharp
+      213: 6027122724756182200
+    second: Brown On (32x8)_4
   - first:
-      213: 7430761468539517424
-    second: flip_flop_assets-02-endorseRakuen_5
+      213: 3059113826426795209
+    second: Brown On (32x8)_5
   - first:
-      213: 6371843442731888658
-    second: WhiteEyes
+      213: 4722360788381041880
+    second: Brown On (32x8)_6
+  - first:
+      213: -7345710839297778315
+    second: Brown On (32x8)_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -66,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,19 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -119,148 +110,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sandal
+      name: Brown On (32x8)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b4d0812a0bbc46930c942a83357ed
+      internalID: -3932816638193255715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown On (32x8)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d82b1c6479594db3235fb6e3cf7ec
+      internalID: 113249620649802049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown On (32x8)_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 647
-        width: 391
-        height: 96
+        y: 0
+        width: 32
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 934c80ccf50cd2b4bb41a2ed8f8bf15b
-      internalID: 1551049216118466883
+      spriteID: 161ab562e71e8cf41ab685ca081c8c85
+      internalID: -3965723481977160693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_1
+      name: Brown On (32x8)_3
       rect:
         serializedVersion: 2
-        x: 37
-        y: 525
-        width: 95
-        height: 62
+        x: 96
+        y: 0
+        width: 32
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91bb303fbd119cc4bb7e882382346320
-      internalID: -5031767050192780626
+      spriteID: cdbe1cf63db6cb745a3148e6cfd706d9
+      internalID: -8422671310359681190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_2
+      name: Brown On (32x8)_4
       rect:
         serializedVersion: 2
-        x: 170
-        y: 524
-        width: 97
-        height: 58
+        x: 128
+        y: 0
+        width: 32
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db09fa10a9b78be46b0494ae880e3002
-      internalID: 5151173286723556483
+      spriteID: fb0afa4b7d958a64ea0c4f0fc26d4e89
+      internalID: 6027122724756182200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_3
+      name: Brown On (32x8)_5
       rect:
         serializedVersion: 2
-        x: 308
-        y: 534
-        width: 111
-        height: 31
+        x: 160
+        y: 0
+        width: 32
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c78e9c1ce674ffd4097c9b8f6e771f1d
-      internalID: 8961511820480959892
+      spriteID: 09dc1b7a40dcba0499692a384b5bf65d
+      internalID: 3059113826426795209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eyebrowsSharp
+      name: Brown On (32x8)_6
       rect:
         serializedVersion: 2
-        x: 433
-        y: 535
-        width: 111
-        height: 31
+        x: 192
+        y: 0
+        width: 32
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8a9ce6a89027964bbadc1c507e2e8e3
-      internalID: 4588817124696567803
+      spriteID: a2ba88b9d5c10524bb960adf9d485311
+      internalID: 4722360788381041880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_5
+      name: Brown On (32x8)_7
       rect:
         serializedVersion: 2
-        x: 80
-        y: 418
-        width: 144
-        height: 42
+        x: 224
+        y: 0
+        width: 32
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42d685eecd01f0b4d8bdbf95f85d6155
-      internalID: 7430761468539517424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteEyes
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 401
-        width: 143
-        height: 90
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef9d349652ccd7d41be2f1013cb5bc6d
-      internalID: 6371843442731888658
+      spriteID: 11319983793eba34b92fa0b4a7ca6a6f
+      internalID: -7345710839297778315
       vertices: []
       indices: 
       edges: []

@@ -1,28 +1,22 @@
 fileFormatVersion: 2
-guid: 767ae07275a020142ad723b1dad1c667
+guid: 3b332af1e6c55e94f8e5eb08fb4ab06b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1551049216118466883
-    second: Sandal
+      213: 3974224528455760076
+    second: Wall Jump (32x32)_0
   - first:
-      213: -5031767050192780626
-    second: flip_flop_assets-02-endorseRakuen_1
+      213: 403085039841989221
+    second: Wall Jump (32x32)_1
   - first:
-      213: 5151173286723556483
-    second: flip_flop_assets-02-endorseRakuen_2
+      213: -6018873884784744797
+    second: Wall Jump (32x32)_2
   - first:
-      213: 8961511820480959892
-    second: flip_flop_assets-02-endorseRakuen_3
+      213: -674972067355074983
+    second: Wall Jump (32x32)_3
   - first:
-      213: 4588817124696567803
-    second: eyebrowsSharp
-  - first:
-      213: 7430761468539517424
-    second: flip_flop_assets-02-endorseRakuen_5
-  - first:
-      213: 6371843442731888658
-    second: WhiteEyes
+      213: 4366178942990776957
+    second: Wall Jump (32x32)_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -66,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,19 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -119,148 +101,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sandal
+      name: Wall Jump (32x32)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c8946edce6344a87b30fcea22e8a9
+      internalID: 3974224528455760076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Jump (32x32)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776cde5de2067348b7619ffca8c5a41
+      internalID: 403085039841989221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Jump (32x32)_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 647
-        width: 391
-        height: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 934c80ccf50cd2b4bb41a2ed8f8bf15b
-      internalID: 1551049216118466883
+      spriteID: 0300542db92406a43ac5273ddd9cfe9c
+      internalID: -6018873884784744797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_1
+      name: Wall Jump (32x32)_3
       rect:
         serializedVersion: 2
-        x: 37
-        y: 525
-        width: 95
-        height: 62
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91bb303fbd119cc4bb7e882382346320
-      internalID: -5031767050192780626
+      spriteID: 35a26961c8377114883f9bc484f35e11
+      internalID: -674972067355074983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_2
+      name: Wall Jump (32x32)_4
       rect:
         serializedVersion: 2
-        x: 170
-        y: 524
-        width: 97
-        height: 58
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db09fa10a9b78be46b0494ae880e3002
-      internalID: 5151173286723556483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_3
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 534
-        width: 111
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c78e9c1ce674ffd4097c9b8f6e771f1d
-      internalID: 8961511820480959892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: eyebrowsSharp
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 535
-        width: 111
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8a9ce6a89027964bbadc1c507e2e8e3
-      internalID: 4588817124696567803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 418
-        width: 144
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42d685eecd01f0b4d8bdbf95f85d6155
-      internalID: 7430761468539517424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteEyes
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 401
-        width: 143
-        height: 90
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef9d349652ccd7d41be2f1013cb5bc6d
-      internalID: 6371843442731888658
+      spriteID: 74fb40e98c3d03246b027eb716cf4b4f
+      internalID: 4366178942990776957
       vertices: []
       indices: 
       edges: []

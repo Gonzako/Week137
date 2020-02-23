@@ -1,28 +1,31 @@
 fileFormatVersion: 2
-guid: 767ae07275a020142ad723b1dad1c667
+guid: c016f0eb0a188a14ab7f86d910097523
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1551049216118466883
-    second: Sandal
+      213: -3049067163339015078
+    second: On (38x38)_0
   - first:
-      213: -5031767050192780626
-    second: flip_flop_assets-02-endorseRakuen_1
+      213: 5023087293052794153
+    second: On (38x38)_1
   - first:
-      213: 5151173286723556483
-    second: flip_flop_assets-02-endorseRakuen_2
+      213: 3635640145415724294
+    second: On (38x38)_2
   - first:
-      213: 8961511820480959892
-    second: flip_flop_assets-02-endorseRakuen_3
+      213: -3382226459320202674
+    second: On (38x38)_3
   - first:
-      213: 4588817124696567803
-    second: eyebrowsSharp
+      213: 6766133057857300771
+    second: On (38x38)_4
   - first:
-      213: 7430761468539517424
-    second: flip_flop_assets-02-endorseRakuen_5
+      213: -6071002419338243549
+    second: On (38x38)_5
   - first:
-      213: 6371843442731888658
-    second: WhiteEyes
+      213: -7001973787898513139
+    second: On (38x38)_6
+  - first:
+      213: -7336932856281768672
+    second: On (38x38)_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -66,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,19 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -119,148 +110,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sandal
+      name: On (38x38)_0
       rect:
         serializedVersion: 2
-        x: 64
-        y: 647
-        width: 391
-        height: 96
+        x: 0
+        y: 0
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 934c80ccf50cd2b4bb41a2ed8f8bf15b
-      internalID: 1551049216118466883
+      spriteID: 978efec6a4e426c469eaa6df7c4c2d9b
+      internalID: -3049067163339015078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_1
+      name: On (38x38)_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 525
-        width: 95
-        height: 62
+        x: 38
+        y: 0
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91bb303fbd119cc4bb7e882382346320
-      internalID: -5031767050192780626
+      spriteID: fcff34e9b32d98049b202e09a66b5545
+      internalID: 5023087293052794153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_2
+      name: On (38x38)_2
       rect:
         serializedVersion: 2
-        x: 170
-        y: 524
-        width: 97
-        height: 58
+        x: 76
+        y: 0
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db09fa10a9b78be46b0494ae880e3002
-      internalID: 5151173286723556483
+      spriteID: 217c9e5c54e8eef42ac87b7dea22a4c9
+      internalID: 3635640145415724294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_3
+      name: On (38x38)_3
       rect:
         serializedVersion: 2
-        x: 308
-        y: 534
-        width: 111
-        height: 31
+        x: 114
+        y: 0
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c78e9c1ce674ffd4097c9b8f6e771f1d
-      internalID: 8961511820480959892
+      spriteID: 3bbcc804402d28049aa89c821f4aef7c
+      internalID: -3382226459320202674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eyebrowsSharp
+      name: On (38x38)_4
       rect:
         serializedVersion: 2
-        x: 433
-        y: 535
-        width: 111
-        height: 31
+        x: 152
+        y: 0
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8a9ce6a89027964bbadc1c507e2e8e3
-      internalID: 4588817124696567803
+      spriteID: 4ebb23c116d33194b8a05e3f751ff09d
+      internalID: 6766133057857300771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_5
+      name: On (38x38)_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 418
-        width: 144
-        height: 42
+        x: 190
+        y: 0
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42d685eecd01f0b4d8bdbf95f85d6155
-      internalID: 7430761468539517424
+      spriteID: 0f89a90399d25e54ba12f6494139187c
+      internalID: -6071002419338243549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteEyes
+      name: On (38x38)_6
       rect:
         serializedVersion: 2
-        x: 369
-        y: 401
-        width: 143
-        height: 90
+        x: 228
+        y: 0
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef9d349652ccd7d41be2f1013cb5bc6d
-      internalID: 6371843442731888658
+      spriteID: 8eeb0ccad161fcf498bc5d7cd895b861
+      internalID: -7001973787898513139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7538bc1370adcc4e812dee9429607e3
+      internalID: -7336932856281768672
       vertices: []
       indices: 
       edges: []

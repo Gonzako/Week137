@@ -1,28 +1,19 @@
 fileFormatVersion: 2
-guid: 767ae07275a020142ad723b1dad1c667
+guid: e3e6b3d6c57dc7b488e7d1e8be902988
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1551049216118466883
-    second: Sandal
+      213: 4965478120403269316
+    second: Blink (42x42)_0
   - first:
-      213: -5031767050192780626
-    second: flip_flop_assets-02-endorseRakuen_1
+      213: 7853364175085887869
+    second: Blink (42x42)_1
   - first:
-      213: 5151173286723556483
-    second: flip_flop_assets-02-endorseRakuen_2
+      213: 3654695632555541323
+    second: Blink (42x42)_2
   - first:
-      213: 8961511820480959892
-    second: flip_flop_assets-02-endorseRakuen_3
-  - first:
-      213: 4588817124696567803
-    second: eyebrowsSharp
-  - first:
-      213: 7430761468539517424
-    second: flip_flop_assets-02-endorseRakuen_5
-  - first:
-      213: 6371843442731888658
-    second: WhiteEyes
+      213: -7771193783775295362
+    second: Blink (42x42)_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -66,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,19 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -119,148 +98,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sandal
+      name: Blink (42x42)_0
       rect:
         serializedVersion: 2
-        x: 64
-        y: 647
-        width: 391
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 934c80ccf50cd2b4bb41a2ed8f8bf15b
-      internalID: 1551049216118466883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_1
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 525
-        width: 95
-        height: 62
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91bb303fbd119cc4bb7e882382346320
-      internalID: -5031767050192780626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_2
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 524
-        width: 97
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db09fa10a9b78be46b0494ae880e3002
-      internalID: 5151173286723556483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_3
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 534
-        width: 111
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c78e9c1ce674ffd4097c9b8f6e771f1d
-      internalID: 8961511820480959892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: eyebrowsSharp
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 535
-        width: 111
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8a9ce6a89027964bbadc1c507e2e8e3
-      internalID: 4588817124696567803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: flip_flop_assets-02-endorseRakuen_5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 418
-        width: 144
+        x: 0
+        y: 0
+        width: 42
         height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42d685eecd01f0b4d8bdbf95f85d6155
-      internalID: 7430761468539517424
+      spriteID: bdfe87cc1cb1eea40a69a31db1419b78
+      internalID: 4965478120403269316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteEyes
+      name: Blink (42x42)_1
       rect:
         serializedVersion: 2
-        x: 369
-        y: 401
-        width: 143
-        height: 90
+        x: 42
+        y: 0
+        width: 42
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef9d349652ccd7d41be2f1013cb5bc6d
-      internalID: 6371843442731888658
+      spriteID: 1d6dc77d256a70747b63b07a09746d8a
+      internalID: 7853364175085887869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blink (42x42)_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7645ad00e03ad894995e3d980b476fae
+      internalID: 3654695632555541323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blink (42x42)_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db1cff4606f72429aa6d21aa895dbb
+      internalID: -7771193783775295362
       vertices: []
       indices: 
       edges: []
