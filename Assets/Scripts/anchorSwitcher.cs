@@ -2,9 +2,22 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using ScriptableObjectArchitecture;
 
 public class anchorSwitcher : MonoBehaviour
 {
+
+    /// <summary>
+    /// True is leftClick false is rightClick
+    /// </summary>
+    [Tooltip("True is leftClick false is rightClick")]
+    public BoolGameEvent onStateChange;
+
+    /// <summary>
+    /// True is leftClick false is rightClick the button sent is the 
+    /// </summary>
+    [Tooltip("True is leftClick false is rightClick ")]
+    public BoolGameEvent onWrongChange;
     public static event Action<FlipFlopMovement[], FlipFlopMovement> onStateSwitch;
     public static event Action<FlipFlopMovement[], buttonToChange> onWrongSwitch;
 
@@ -19,6 +32,7 @@ public class anchorSwitcher : MonoBehaviour
 
     private void switchStates()
     {
+        onStateChange.Raise(changeButton == buttonToChange.leftClick);
         foreach (FlipFlopMovement n in flipFlops)
         {
             switch (n.state)
@@ -41,6 +55,7 @@ public class anchorSwitcher : MonoBehaviour
             if (changeButton == buttonToChange.leftClick)
             {
                 Debug.Log("badLeftClick");
+                onWrongChange.Raise(true);
                 onWrongSwitch?.Invoke(flipFlops, changeButton);
             }
             inputVector.x = 1;
@@ -49,6 +64,7 @@ public class anchorSwitcher : MonoBehaviour
         {
             if(changeButton == buttonToChange.rightClick)
             {
+                onWrongChange.Raise(false);
                 Debug.Log("badRightClick");
                 onWrongSwitch?.Invoke(flipFlops, changeButton);
             }
@@ -63,15 +79,15 @@ public class anchorSwitcher : MonoBehaviour
             case buttonToChange.rightClick:
                 if(inputVector.y == 1)
                 {
-                    switchStates();
                     changeButton = buttonToChange.leftClick;
+                    switchStates();
                 }
                 break;
             case buttonToChange.leftClick:
                 if (inputVector.x == 1)
                 {
-                    switchStates();
                     changeButton = buttonToChange.rightClick;
+                    switchStates();
                 }
                 break;
         }
