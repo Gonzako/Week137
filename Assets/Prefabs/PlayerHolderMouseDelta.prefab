@@ -356,6 +356,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3569572422011418868, guid: 75da845fb223b9d429679d8352e7f500,
+        type: 3}
+      propertyPath: m_AngularDrag
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3569572422011418869, guid: 75da845fb223b9d429679d8352e7f500,
+        type: 3}
+      propertyPath: m_MaxForce
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 3569572422011418872, guid: 75da845fb223b9d429679d8352e7f500,
         type: 3}
       propertyPath: behavioursAsFeet.Array.size
@@ -438,6 +448,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: bfe6716491c938f47a9a0a9bcd6d1c2d,
         type: 2}
+    - target: {fileID: 3569572423769129099, guid: 75da845fb223b9d429679d8352e7f500,
+        type: 3}
+      propertyPath: m_AngularDrag
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3569572423769129100, guid: 75da845fb223b9d429679d8352e7f500,
+        type: 3}
+      propertyPath: m_MaxForce
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 3569572423769129103, guid: 75da845fb223b9d429679d8352e7f500,
         type: 3}
       propertyPath: behavioursAsFeet.Array.size
