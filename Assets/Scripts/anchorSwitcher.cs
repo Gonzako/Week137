@@ -16,12 +16,12 @@ public class anchorSwitcher : MonoBehaviour
     /// <summary>
     /// True is leftClick false is rightClick the button sent is the 
     /// </summary>
-    [Tooltip("True is leftClick false is rightClick ")]
+    [Tooltip("True is leftClick false is rightClick the button sent is the next button to change")]
     public BoolGameEvent onWrongChange;
     public static event Action<FlipFlopMovement[], FlipFlopMovement> onStateSwitch;
     public static event Action<FlipFlopMovement[], buttonToChange> onWrongSwitch;
 
-    private buttonToChange changeButton = buttonToChange.rightClick;
+    private buttonToChange changeButton = buttonToChange.leftClick;
     private FlipFlopMovement[] flipFlops;
     private Vector2 inputVector;
 

@@ -62,9 +62,9 @@ MonoBehaviour:
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
-  m_ScreenX: 0.5
+  m_ScreenX: 0.492
   m_ScreenY: 0.5
-  m_CameraDistance: 9.68
+  m_CameraDistance: 10
   m_DeadZoneWidth: 0
   m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
@@ -84,7 +84,7 @@ MonoBehaviour:
   m_MinimumFOV: 3
   m_MaximumFOV: 60
   m_MinimumOrthoSize: 5
-  m_MaximumOrthoSize: 5000
+  m_MaximumOrthoSize: 10
 --- !u!1 &1300964642
 GameObject:
   m_ObjectHideFlags: 0
@@ -110,7 +110,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1300964642}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.6547322, y: 0.35789, z: -13.545723}
+  m_LocalPosition: {x: 4.8559694, y: 0.35789, z: -13.865723}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 122070440}
@@ -232,7 +232,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2059485928}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.6547322, y: 0.35789, z: -13.545723}
+  m_LocalPosition: {x: 4.8559694, y: 0.35789, z: -13.865723}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3500896275412093241}
@@ -265,7 +265,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 150
+  orthographic size: 5
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
