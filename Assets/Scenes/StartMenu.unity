@@ -1193,6 +1193,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1471579959}
     m_Modifications:
+    - target: {fileID: 401217375, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1115689443, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 1300964642, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1216,6 +1224,14 @@ PrefabInstance:
     - target: {fileID: 1350578941, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.6547241
+      objectReference: {fileID: 0}
+    - target: {fileID: 1421457353, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1626347681, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 2059485928, guid: 2afc3c751297b544c86f1b1e57a6b919, type: 3}
       propertyPath: m_IsActive
