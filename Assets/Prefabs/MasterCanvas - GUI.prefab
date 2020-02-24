@@ -1970,6 +1970,7 @@ GameObject:
   - component: {fileID: 9031788659521189830}
   - component: {fileID: 9031788659521189829}
   - component: {fileID: 9031788659521189828}
+  - component: {fileID: 9031788659456292026}
   m_Layer: 0
   m_Name: MasterCanvas - GUI
   m_TagString: Untagged
@@ -2078,3 +2079,16 @@ MonoBehaviour:
   CanvasName: MasterCanvas
   CustomCanvasName: 0
   DontDestroyCanvasOnLoad: 0
+--- !u!114 &9031788659456292026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9031788659521189827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fabfc07d11c27438c480d562368f3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraTag: MainCamera
