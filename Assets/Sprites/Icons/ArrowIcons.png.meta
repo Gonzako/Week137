@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: 205e21746b0b3fc4db608cfc497c63ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1871217418210338435
+    second: ArrowIcons_0
+  - first:
+      213: 7332133490571760781
+    second: ArrowIcons_1
+  - first:
+      213: -4472134923417858330
+    second: ArrowIcons_2
+  - first:
+      213: -7021605949538649740
+    second: ArrowIcons_3
+  - first:
+      213: -1617780808376439137
+    second: ArrowIcons_4
+  - first:
+      213: -7216164845659505079
+    second: ArrowIcons_5
+  - first:
+      213: 2364231780946157492
+    second: ArrowIcons_6
+  - first:
+      213: -5884680122342255330
+    second: ArrowIcons_7
+  - first:
+      213: 8359000167423505189
+    second: ArrowIcons_8
+  - first:
+      213: 2467688013829094361
+    second: ArrowIcons_9
+  - first:
+      213: 2223605559443385349
+    second: ArrowIcons_10
+  - first:
+      213: -6595821074278375981
+    second: ArrowToUse
+  - first:
+      213: 8718482191802365383
+    second: ArrowIcons_12
+  - first:
+      213: -5829289447509306887
+    second: ArrowIcons_13
+  - first:
+      213: -6629870203002526326
+    second: ArrowIcons_14
+  - first:
+      213: -3716620320352364485
+    second: ArrowIcons_15
+  - first:
+      213: 7541515074801145985
+    second: ArrowIcons_16
+  - first:
+      213: 1868843606075521575
+    second: ArrowIcons_17
+  - first:
+      213: 6674142667332321894
+    second: ArrowIcons_18
+  - first:
+      213: -3292356835147023699
+    second: ArrowIcons_19
+  - first:
+      213: -7564976076905814457
+    second: ArrowIcons_20
+  - first:
+      213: -5320478689954844250
+    second: ArrowIcons_21
+  - first:
+      213: 6393436110715644232
+    second: ArrowIcons_22
+  - first:
+      213: -6537266551329320612
+    second: ArrowIcons_23
+  - first:
+      213: 7652735577626675210
+    second: ArrowIcons_24
+  - first:
+      213: 5417544251788461739
+    second: ArrowIcons_25
+  - first:
+      213: 9070408462880652714
+    second: ArrowIcons_26
+  - first:
+      213: 3045138191699582486
+    second: ArrowIcons_27
+  - first:
+      213: -4632403090335744798
+    second: ArrowIcons_28
+  - first:
+      213: -2126135650509054058
+    second: ArrowIcons_29
+  - first:
+      213: 5902075970229770891
+    second: ArrowIcons_30
+  - first:
+      213: 7053920003416423070
+    second: ArrowIcons_31
+  - first:
+      213: -4688448350308638341
+    second: ArrowIcons_32
+  - first:
+      213: 2279918390300283158
+    second: ArrowIcons_33
+  - first:
+      213: -6249096279826649634
+    second: ArrowIcons_34
+  - first:
+      213: 6047663011869956482
+    second: ArrowIcons_35
+  - first:
+      213: -2866339172704275096
+    second: ArrowIcons_36
+  - first:
+      213: -4125640620478032634
+    second: ArrowIcons_37
+  - first:
+      213: 6886074687905996742
+    second: ArrowIcons_38
+  - first:
+      213: -8533748127274465324
+    second: ArrowIcons_39
+  - first:
+      213: 3597152886293980359
+    second: ArrowIcons_40
+  - first:
+      213: -4189140983168142517
+    second: ArrowIcons_41
+  - first:
+      213: 4385390971915925379
+    second: ArrowIcons_42
+  - first:
+      213: -6833727896008292600
+    second: ArrowIcons_43
+  - first:
+      213: 659448277938340843
+    second: ArrowIcons_44
+  - first:
+      213: 3735114951408895749
+    second: ArrowIcons_45
+  - first:
+      213: -2867542522645662247
+    second: ArrowIcons_46
+  - first:
+      213: -3371968250924351399
+    second: ArrowIcons_47
+  - first:
+      213: -6043753266477622689
+    second: ArrowIcons_48
+  - first:
+      213: 4045633748639827942
+    second: ArrowIcons_49
+  - first:
+      213: -512227014827089970
+    second: ArrowIcons_50
+  - first:
+      213: 8032181886392697476
+    second: ArrowIcons_51
+  - first:
+      213: -2563761574630527243
+    second: ArrowIcons_52
+  - first:
+      213: 2567669796159321675
+    second: ArrowIcons_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowIcons_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 396.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb33aa818176aa4480a7e955a9742bd
+      internalID: 1871217418210338435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 396.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e37604d2b3832241aef520ff0a652b0
+      internalID: 7332133490571760781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 397
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd6612fc309924c987e164d58874d3
+      internalID: -4472134923417858330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 397
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143e0f5d73999645bbc3808842c0075
+      internalID: -7021605949538649740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 395
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f413dde93d9669489bdd0f1089191a3
+      internalID: -1617780808376439137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 397
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005a7f5b79d0897499881a39d6da132c
+      internalID: -7216164845659505079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 396.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8f4b901708af4396a6086ed506aa9
+      internalID: 2364231780946157492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 396.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c005390a75242d4b91e3996aff8ed3d
+      internalID: -5884680122342255330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 396.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e0812330f12714a8cd4ec1532f2ee2
+      internalID: 8359000167423505189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632694488343d104a8988836a8a455f9
+      internalID: 2467688013829094361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603556ff2666ca84cb8fe3f0221fb172
+      internalID: 2223605559443385349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowToUse
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 320
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b23e7dd6a1761e44a417a66275dc5a9
+      internalID: -6595821074278375981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2357082b38342f40914a8560ec93c15
+      internalID: 8718482191802365383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7067dac1474395140b245ecd9e10ac8c
+      internalID: -5829289447509306887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da870fbc336204a8af6e2561355476
+      internalID: -6629870203002526326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_15
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc48269788b89f45aeb48a72e59c8f7
+      internalID: -3716620320352364485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e87812da2cdd9e448bd91d6cb412e09
+      internalID: 7541515074801145985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 322.66666
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe300dbfc195004db5ace0f24f65585
+      internalID: 1868843606075521575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 248.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3921425468ff4d9321b177c27de4b
+      internalID: 6674142667332321894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 248.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cfaa969d949ca4794efcf12a54c287
+      internalID: -3292356835147023699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 248.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08f1584d7d32de49a3d840f675ee7a4
+      internalID: -7564976076905814457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 248.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc054649497b1243bce56188aa7427d
+      internalID: -5320478689954844250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 248.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17aad3c176e5f949a20d114f0611767
+      internalID: 6393436110715644232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 239
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c4fd417a4b871419aa2a188688b9f0
+      internalID: -6537266551329320612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 245
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccc72314767c96459f74f32b5da1a1d
+      internalID: 7652735577626675210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_25
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 248.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cd6ce14187c2f498c0913270949bf3
+      internalID: 5417544251788461739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 248.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7d7fd02581ef449a8c11c322179e4
+      internalID: 9070408462880652714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8bb411803fa445b1d175b0a3f47a9
+      internalID: 3045138191699582486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa09bbff2e1aeb44b278c84372dd515
+      internalID: -4632403090335744798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51397512387e8641a0c9ec49bfc8d12
+      internalID: -2126135650509054058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774da3d8b3a32fc479bebcec660d178b
+      internalID: 5902075970229770891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0204a320c6eef2f42aa75af494b42e19
+      internalID: 7053920003416423070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15205cb347b295c4ca2d6996f1103685
+      internalID: -4688448350308638341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_33
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d47e8fdc1bf34980cb2e03ea5eaec
+      internalID: 2279918390300283158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdac615202fe1a41962dc34ee5291a3
+      internalID: -6249096279826649634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 174.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541474904708332468e624610dca065a
+      internalID: 6047663011869956482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135469663bdbdee4b994ea88c9ee295c
+      internalID: -2866339172704275096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b970f109cecb5489d209cf8655909c
+      internalID: -4125640620478032634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb228519b80c33d47854bd479d1fa98c
+      internalID: 6886074687905996742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca7fa985f494042831def843ab2ec6
+      internalID: -8533748127274465324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_40
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c39bfa0dad11ff40aa8170283ae1411
+      internalID: 3597152886293980359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af139314306324f99fff80404961b8
+      internalID: -4189140983168142517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281eae8b0b56cd4ab2c0205f83ac010
+      internalID: 4385390971915925379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8770a6894bd48049849476cb064f12f
+      internalID: -6833727896008292600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_44
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 100.66667
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d06878ada6fa4e972f8afb8fcf3f0
+      internalID: 659448277938340843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ea6f762f85034fa5e14ad38c7a492
+      internalID: 3735114951408895749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c2b5932759a94da92e1ab5fd54fc4
+      internalID: -2867542522645662247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddfa017f82fbbe40b823b63faa2c955
+      internalID: -3371968250924351399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373fccc9059a124f969d061cdc22bd3
+      internalID: -6043753266477622689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2b390d6369c744994f1cbf4cd03f3
+      internalID: 4045633748639827942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842adf21a9fdeb40b8296d1cba91538
+      internalID: -512227014827089970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_51
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d027b9a21fb28b4a87908d7cb9a7efa
+      internalID: 8032181886392697476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03e58a2870566a4d8b4e1be96e16e1b
+      internalID: -2563761574630527243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIcons_53
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 26.666668
+        width: 54.88889
+        height: 49.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb188b8e719ede43837d5a463aadca7
+      internalID: 2567669796159321675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
