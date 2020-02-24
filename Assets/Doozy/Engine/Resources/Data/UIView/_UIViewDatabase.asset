@@ -18,7 +18,9 @@ MonoBehaviour:
   - Example
   - General
   - In-Game
+  - StartMenu
   Categories:
   - {fileID: 11400000, guid: b01e98f4801f7124ba39e1dac4debf90, type: 2}
   - {fileID: 11400000, guid: f672486d7d7d56d45848899dc814477f, type: 2}
   - {fileID: 11400000, guid: 37e5a3058ba5809438ef7eb5fb4bad66, type: 2}
+  - {fileID: 11400000, guid: 81961b483fd44a941a209dae98effd69, type: 2}

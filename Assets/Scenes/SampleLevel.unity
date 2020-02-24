@@ -1016,6 +1016,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a05e3b628fc60db4d95a2d03905c8eb1, type: 3}
+--- !u!1 &688619308 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9031788658872028951, guid: a05e3b628fc60db4d95a2d03905c8eb1,
+    type: 3}
+  m_PrefabInstance: {fileID: 688619307}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &688619309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 688619308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 791e3eca91bfc2e41b38477d0ecfaf1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DeveloperDescription:
+    _value: 
+  _showDebugFields: 0
+  _enableGizmoDebugging: 1
+  _debugColor: {r: 0, g: 1, b: 1, a: 1}
+  _previouslyRegisteredEvent: {fileID: 0}
+  _event: {fileID: 11400000, guid: bfe6716491c938f47a9a0a9bcd6d1c2d, type: 2}
+  _response:
+    m_PersistentCalls:
+      m_Calls: []
+  _debugValue: 0
 --- !u!1 &1088936215
 GameObject:
   m_ObjectHideFlags: 0
