@@ -8,7 +8,6 @@ public class numberToText : MonoBehaviour
 {
     public void setNumberToString(float number)
     {        
-
         GetComponent<Text>().text = Math.Round(number, 2).ToString();
     }
 }

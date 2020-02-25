@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8519476863096467164}
   - component: {fileID: 5613692443076470722}
   m_Layer: 0
-  m_Name: '`prop_showoffshelf'
+  m_Name: prop_showoffshelf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1218190300316678232, guid: 8ee29b964d7b2024292ae6b025f56f4d,
+  m_Sprite: {fileID: 7585444267081221201, guid: 8ee29b964d7b2024292ae6b025f56f4d,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
