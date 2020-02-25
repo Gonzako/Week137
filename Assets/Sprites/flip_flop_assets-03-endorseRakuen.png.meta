@@ -14,6 +14,21 @@ TextureImporter:
   - first:
       213: 3302371078325732744
     second: Prop_dress
+  - first:
+      213: 38927019775790135
+    second: FolderWhiteRobe
+  - first:
+      213: -1218190300316678232
+    second: prop_airshelf
+  - first:
+      213: 7585444267081221201
+    second: prop_showShelf
+  - first:
+      213: 3302371078325732744
+    second: prop_shirt
+  - first:
+      213: 3268221564713090575
+    second: prop_Dress
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -110,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: prop_airshelf
+      name: FolderWhiteRobe
       rect:
         serializedVersion: 2
-        x: 988
-        y: 741
-        width: 529
-        height: 216
+        x: 557
+        y: 816
+        width: 133
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,18 +139,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 380d45e6575b74e409ce6a435f667492
+      spriteID: 351815fe47d309d4aac9539bc77951be
       internalID: 38927019775790135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '`prop_showoffshelf'
+      name: prop_airshelf
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 635
+        width: 529
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5025074, y: 0.659609}
+      border: {x: 0, y: 104, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc369c6b6c19c4ca91585630842e9c
+      internalID: -1218190300316678232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_showShelf
       rect:
         serializedVersion: 2
         x: 86
-        y: 32
+        y: 31
         width: 572
         height: 284
       alignment: 0
@@ -145,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713e8e452f2d7a049b0652f69feee941
-      internalID: -1218190300316678232
+      spriteID: e3f222c8cbd49d740a49a1130646b05d
+      internalID: 7585444267081221201
       vertices: []
       indices: 
       edges: []
@@ -155,8 +191,8 @@ TextureImporter:
       name: prop_shirt
       rect:
         serializedVersion: 2
-        x: 862
-        y: 46
+        x: 863
+        y: 36
         width: 248
         height: 448
       alignment: 0
@@ -166,18 +202,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebdebd2f0cecddf44b58e8575f07a6fd
-      internalID: 7585444267081221201
+      spriteID: 625e04b4a38b0444985ea9180bb52d3a
+      internalID: 3302371078325732744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prop_dress
+      name: prop_Dress
       rect:
         serializedVersion: 2
-        x: 1251
-        y: 19
+        x: 1253
+        y: 22
         width: 257
         height: 514
       alignment: 0
@@ -187,8 +223,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de3accf8a50c3de4d8e8a8f178c9ee9c
-      internalID: 3302371078325732744
+      spriteID: ca65e74e42a48da4e8aec9efd854564e
+      internalID: 3268221564713090575
       vertices: []
       indices: 
       edges: []
