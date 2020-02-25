@@ -11,6 +11,6 @@ public class hideMouse : MonoBehaviour
 
     public void releaseMouse()
     {
-
+        Cursor.lockState = CursorLockMode.None;
     }
 }
