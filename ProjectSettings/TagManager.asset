@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Flop
   - Flip
+  - DoorTag
   layers:
   - Default
   - TransparentFX
