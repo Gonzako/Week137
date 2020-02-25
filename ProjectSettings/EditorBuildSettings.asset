@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GTest.unity
     guid: 4bf0c5292381e1147859e09262f094b1
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: e913ff55f9ef02d469d4230366d633ba
   - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: d36949e8dc65d04499d8676cab461d18
