@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class deltaTarget : MonoBehaviour
 {
-    [SerializeField] private float sensibility = 5f;
+    [SerializeField] public float sensibility = 5f;
 
     private TargetJoint2D mouseJoint;
     private Vector2 mouseDelta;
