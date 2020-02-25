@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 2068188465734585108}
   - component: {fileID: 2068188465734585109}
   - component: {fileID: 2068188465734585110}
+  - component: {fileID: 2035741507}
   m_Layer: 10
   m_Name: prop_airshelf
   m_TagString: Untagged
@@ -279,6 +280,32 @@ CapsuleCollider2D:
   m_Offset: {x: -0.6, y: 0.25}
   m_Size: {x: 0.65, y: 0.17703308}
   m_Direction: 1
+--- !u!61 &2035741507
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068188465734585114}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.11555648, y: -0.1661694}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0.5048544, z: 0, w: 0}
+    pivot: {x: 0.5025074, y: 0.659609}
+    oldSize: {x: 2.5679612, y: 1.5728155}
+    newSize: {x: 2.5679612, y: 1.0485437}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.7157626, y: 0.3351841}
+  m_EdgeRadius: 0
 --- !u!1 &6764846995908936293
 GameObject:
   m_ObjectHideFlags: 0
